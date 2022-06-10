@@ -1,7 +1,6 @@
  --
- "My first blog post"
- My name is William Anil.
-2022-06-10
+title: "Welcome to my blog"
+date: 2022-06-10
 Snap code: b4obama
 Instagram: w_i_l_l_0_3_3
   
